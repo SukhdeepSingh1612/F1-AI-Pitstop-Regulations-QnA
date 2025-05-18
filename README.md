@@ -1,5 +1,6 @@
 # Formula 1 Regulations Q&A
 
+### Deployed on Streamlit : https://f1-ai-pitstop-regulations-qna-2exfzbb5anmpndcutjrdym.streamlit.app/
 A Streamlit web app that lets you ask questions about Formula 1 regulations using LangChain, Astra DB (Cassandra), and OpenAI embeddings & LLMs. The app searches the Astra DB vector store to find relevant F1 rulebook snippets and answers your queries interactively.
 
 ---
